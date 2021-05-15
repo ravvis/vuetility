@@ -11,4 +11,6 @@
 
 ### Components
 
+- [Custom Scroller](https://www.npmjs.com/package/@vuetility/vue-custom-scroller)
+
 ### Plugins
